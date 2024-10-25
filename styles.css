@@ -4,7 +4,7 @@ html body {
   color: #fff;
   background-image: url("pxfuel.jpg");
   background-size: cover;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-position: fill;
 }
 
